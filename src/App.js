@@ -7,10 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         I am making my first React app using Create React App and upload on github and deploy using netlify
         </p>
+        <h1>My first React App</h1>
+        <h2>Its live React App</h2>
         <a
-          className="App-link"
+          className="App-link"npm 
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
